@@ -25,8 +25,6 @@ input.onButtonPressed(Button.B, function () {
     }
 })
 let Lozinka = ""
+radio.setGroup(234)
 Lozinka = ":)"
 basic.showIcon(IconNames.Happy)
-basic.forever(function () {
-	
-})
